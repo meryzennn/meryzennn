@@ -1,22 +1,21 @@
-# Hi there, I'm [Your Name]! 👋
+### Hi there 👋, my name is ryzennn
+#### Design and Development
+![Design and Development](https://pbs.twimg.com/profile_banners/1671492964189892608/1711115323/600x200)
 
-I'm a 3D modeler with a passion for coding and a background in computer science. I enjoy exploring the intersection between art and technology, creating visually stunning experiences through both 3D modeling and programming.
+I'm a 3D modeler with a penchant for coding and a background in computer science. Hailing from the beautiful archipelago of Indonesia, I find joy in the creative realms of both art and technology.
 
-🌱 I'm currently learning and exploring new techniques in both 3D modeling and software development, always eager to expand my skill set and tackle exciting challenges.
+🎨 3D Modeling: Crafting immersive and captivating digital worlds is my forte. From intricate character designs to breathtaking landscapes, I thrive on bringing imagination to life through 3D modeling.
 
-💻 As a computer science graduate, I have a solid foundation in algorithms, data structures, and software development principles. I love applying this knowledge to create efficient and elegant solutions to problems, whether it's writing code or optimizing 3D models.
+💻 Coding Enthusiast: Beyond the realm of polygons and textures, I find solace in the elegance of code. My journey in computer science has equipped me with a deep understanding of algorithms, data structures, and software development principles. I enjoy delving into the intricacies of programming languages to create efficient and innovative solutions.
 
-🔭 I’m currently working on various projects that combine my interests in 3D modeling and coding, ranging from interactive visualizations to game development.
+🌱 Eternal Learner: The pursuit of knowledge is my constant companion. I relish the opportunity to explore new technologies, methodologies, and techniques. Whether it's mastering the latest rendering software or diving into cutting-edge programming paradigms, I embrace every learning opportunity with enthusiasm.
 
-🚀 Some of my recent projects include:
-- [Project 1](https://github.com/meryzennn/Bank-Sampah): Brief description of the project.
+🌏 Indonesian Explorer: As a proud Indonesian, I cherish the rich tapestry of culture, tradition, and natural beauty that my homeland offers. When I'm not immersed in pixels and code, you can find me exploring local cuisines, discovering hidden gems, and celebrating the vibrant diversity of Indonesia.
 
-📫 You can reach me via [email](mailto:me.ryzennn@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/ryz-en-605562259).
+Skills: SOLIDITY / REACT / JS / HTML / CSS / PYTHON / HTML / PHP
 
-⚡ Fun fact: I'm from Indonesia and I love exploring Indonesian culture and cuisine in my free time!
-
-Let's connect and collaborate on exciting projects together! 😊
-
+- 🔭 I’m currently working on this page. 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meryzennn)](https://github.com/anuraghazra/github-readme-stats)
+
+
