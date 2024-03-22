@@ -14,7 +14,8 @@ I'm a 3D modeler with a penchant for coding and a background in computer science
 
 Skills: SOLIDITY / REACT / JS / HTML / CSS / PYTHON / HTML / PHP
 
-- 🔭 I’m currently working on this page. 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meryzennn)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
