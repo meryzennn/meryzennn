@@ -10,7 +10,9 @@
 
 🌏 **Indonesian Explorer**: As a proud Indonesian, I cherish the rich tapestry of culture, tradition, and natural beauty that my homeland offers. When I'm not immersed in pixels and code, you can find me exploring local cuisines, discovering hidden gems, and celebrating the vibrant diversity of Indonesia.
 
-**Skills: VUE JS / REACT / JS / HTML / CSS / PHP / SOLIDITY / PYTHON**
+## Skills and Experience
+* 📱 Flutter
+* 🖥️ HTML, CSS, PHP, PYTHON, SOLIDITY
 
 
 
