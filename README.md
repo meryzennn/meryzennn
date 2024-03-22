@@ -1,5 +1,5 @@
 
-![Design and Development](https://github.com/meryzennn/meryzennn/blob/main/aievil2.png)
+![Design and Development](https://github.com/meryzennn/meryzennn/blob/main/aievil.png)
 
 ## ryzennn
 I'm a 3D modeler with a penchant for coding and a background in computer science. Hailing from the beautiful archipelago of Indonesia, I find joy in the creative realms of both art and technology.
