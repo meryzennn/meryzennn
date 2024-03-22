@@ -2,7 +2,7 @@
 #### Design and Development
 ![Design and Development](https://pbs.twimg.com/profile_banners/1671492964189892608/1711115323/600x200)
 
-🎨 3D Modeling: Crafting immersive and captivating digital worlds is my forte. From intricate character designs to breathtaking landscapes, I thrive on bringing imagination to life through 3D modeling.
+🎨 ### 3D Modeling: Crafting immersive and captivating digital worlds is my forte. From intricate character designs to breathtaking landscapes, I thrive on bringing imagination to life through 3D modeling.
 
 💻 Coding Enthusiast: Beyond the realm of polygons and textures, I find solace in the elegance of code. My journey in computer science has equipped me with a deep understanding of algorithms, data structures, and software development principles. I enjoy delving into the intricacies of programming languages to create efficient and innovative solutions.
 
