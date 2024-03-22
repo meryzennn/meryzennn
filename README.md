@@ -1,6 +1,8 @@
-### Hi there 👋, my name is ryzennn
-#### Design and Development
+
 ![Design and Development](https://pbs.twimg.com/profile_banners/1671492964189892608/1711115323/600x200)
+
+## ryzennn
+I'm a 3D modeler with a penchant for coding and a background in computer science. Hailing from the beautiful archipelago of Indonesia, I find joy in the creative realms of both art and technology.
 
 🎨 **3D Modeling**: Crafting immersive and captivating digital worlds is my forte. From intricate character designs to breathtaking landscapes, I thrive on bringing imagination to life through 3D modeling.
 
