@@ -47,7 +47,7 @@
   <a href="https://discord.gg/XV9bjGxwD5" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="mailto:me.ryzennn@gmail.com">
+ <a href="mailto:me.ryzennn@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
@@ -58,20 +58,12 @@
 
 ###
 
-<h2 align="left">👋 Welcome to Ryzen's GitHub!<br><br>Hi, I'm Tegar aka Ryzen, a Computer Science student at Bina Sarana Informatika. I love coding, 3D modeling, and selling NFTs on the Solana blockchain.<br><br><br>Check out my repositories for exciting projects and innovations</h2>
+<h2 align="left">👋 Welcome to Ryzen's GitHub!<br><br>Hi, I'm Tegar aka Ryzen, a Computer Science student at Bina Sarana Informatika. I love coding, 3D modeling, and selling NFTs on the Solana blockchain.<br><br><br>Check out my repositories for exciting projects.</h2>
 
 ###
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/meryzennn/meryzennn/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31jpcosyoyaiqtrti2ej2bgsetky">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jpcosyoyaiqtrti2ej2bgsetky&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
