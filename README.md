@@ -58,7 +58,7 @@
 
 ###
 
-<h2 align="left">---<br><br># 👋 Welcome to Ryzen's GitHub!<br><br>Hi, I'm **Tegar** (aka **Ryzen**), a Computer Science student at **Bina Sarana Informatika**. I love coding, 3D modeling, and selling NFTs on the **Solana** blockchain.<br><br><br>Check out my repositories for exciting projects and innovations<br><br>---</h2>
+<h2 align="left">👋 Welcome to Ryzen's GitHub!<br><br>Hi, I'm Tegar aka Ryzen, a Computer Science student at Bina Sarana Informatika. I love coding, 3D modeling, and selling NFTs on the Solana blockchain.<br><br><br>Check out my repositories for exciting projects and innovations</h2>
 
 ###
 
