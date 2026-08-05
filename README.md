@@ -4,12 +4,12 @@
 
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/meryzennn/meryzennn/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false" height="100" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=meryzennn&locale=en&mode=daily&theme=aura&hide_border=false&border_radius=5" height="100" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=meryzennn&locale=en&mode=daily&theme=aura&hide_border=false&border_radius=5" height="200" alt="streak graph"  />
 </div>
 
 ###
 
-<img data-importer="image" align="left" height="168" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFvdWJ3aHZiZjk0NmpoaWpyemtnbGZ2N2l3dXlxb3lwdHRvejc3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uZVCv8HVKg4n83Xsb7/giphy.gif"  />
+<img data-importer="image" align="left" height="153" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFvdWJ3aHZiZjk0NmpoaWpyemtnbGZ2N2l3dXlxb3lwdHRvejc3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uZVCv8HVKg4n83Xsb7/giphy.gif"  />
 
 ###
 
