@@ -9,42 +9,42 @@
 
 ###
 
-<img data-importer="image" align="left" height="153" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFvdWJ3aHZiZjk0NmpoaWpyemtnbGZ2N2l3dXlxb3lwdHRvejc3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uZVCv8HVKg4n83Xsb7/giphy.gif"  />
+<div data-importer="socials" align="left">
+  <a href="https://youtube.com/@zenzxty" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="120" height="30" alt="youtube logo"  />
+  </a>
+  <a href="https://instagram.com/me.ryzen" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="120" height="30" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.gg/XV9bjGxwD5" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="120" height="30" alt="discord logo"  />
+  </a>
+  <a href="mailto:me.ryzennn@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="120" height="30" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/tegarhardiansyah/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="120" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://dev.to/0x5zen" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="120" height="30" alt="devto logo"  />
+  </a>
+  <a href="https://bsky.app/profile/0x5zen.bsky.social" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/bluesky/default.svg" width="120" height="30" alt="bluesky logo"  />
+  </a>
+  <a href="https://www.0x5zen.dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="120" height="30" alt="linktree logo"  />
+  </a>
+  <a href="https://behance.net/0x5zen" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="120" height="30" alt="behance logo"  />
+  </a>
+  <a href="https://matrix.to/#/@0x5zen:matrix.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/matrix/default.svg" width="120" height="30" alt="matrix logo"  />
+  </a>
+</div>
 
 ###
 
-<div data-importer="socials" align="left">
-  <a href="https://youtube.com/@zenzxty" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="45" height="30" alt="youtube logo"  />
-  </a>
-  <a href="https://instagram.com/me.ryzen" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="30" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.gg/XV9bjGxwD5" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="45" height="30" alt="discord logo"  />
-  </a>
-  <a href="mailto:me.ryzennn@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="30" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/tegarhardiansyah/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://dev.to/0x5zen" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="45" height="30" alt="devto logo"  />
-  </a>
-  <a href="https://bsky.app/profile/0x5zen.bsky.social" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/bluesky/default.svg" width="45" height="30" alt="bluesky logo"  />
-  </a>
-  <a href="https://www.0x5zen.dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="45" height="30" alt="linktree logo"  />
-  </a>
-  <a href="https://behance.net/0x5zen" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="45" height="30" alt="behance logo"  />
-  </a>
-  <a href="https://matrix.to/#/@0x5zen:matrix.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/matrix/default.svg" width="45" height="30" alt="matrix logo"  />
-  </a>
-</div>
+<img data-importer="image" align="left" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFvdWJ3aHZiZjk0NmpoaWpyemtnbGZ2N2l3dXlxb3lwdHRvejc3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uZVCv8HVKg4n83Xsb7/giphy.gif"  />
 
 ###
 
