@@ -50,67 +50,67 @@
 
 <div data-importer="techs" align="left">
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="26" />
+  <img width="18" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="26" />
+  <img width="18" />
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="26" />
+  <img width="18" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
-  <img width="26" />
+  <img width="18" />
   <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="vercel logo"  />
-  <img width="26" />
+  <img width="18" />
   <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
-  <img width="26" />
+  <img width="18" />
   <img src="https://skillicons.dev/icons?i=dart" height="30" alt="dart logo"  />
-  <img width="26" />
+  <img width="18" />
   <img src="https://skillicons.dev/icons?i=devto" height="30" alt="devto logo"  />
-  <img width="26" />
+  <img width="18" />
   <img src="https://skillicons.dev/icons?i=discord" height="30" alt="discord logo"  />
-  <img width="26" />
+  <img width="18" />
   <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
-  <img width="26" />
+  <img width="18" />
   <img src="https://skillicons.dev/icons?i=electron" height="30" alt="electron logo"  />
-  <img width="26" />
+  <img width="18" />
   <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
-  <img width="26" />
+  <img width="18" />
   <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="flutter logo"  />
-  <img width="26" />
+  <img width="18" />
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="26" />
+  <img width="18" />
   <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="googlecloud logo"  />
-  <img width="26" />
+  <img width="18" />
   <img src="https://skillicons.dev/icons?i=gradle" height="30" alt="gradle logo"  />
-  <img width="26" />
+  <img width="18" />
   <img src="https://skillicons.dev/icons?i=graphql" height="30" alt="graphql logo"  />
-  <img width="26" />
+  <img width="18" />
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="26" />
+  <img width="18" />
   <img src="https://skillicons.dev/icons?i=jquery" height="30" alt="jquery logo"  />
-  <img width="26" />
+  <img width="18" />
   <img src="https://skillicons.dev/icons?i=kotlin" height="30" alt="kotlin logo"  />
-  <img width="26" />
+  <img width="18" />
   <img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="kubernetes logo"  />
-  <img width="26" />
+  <img width="18" />
   <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="linkedin logo"  />
-  <img width="26" />
+  <img width="18" />
   <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
-  <img width="26" />
+  <img width="18" />
   <img src="https://skillicons.dev/icons?i=md" height="30" alt="markdown logo"  />
-  <img width="26" />
+  <img width="18" />
   <img src="https://skillicons.dev/icons?i=netlify" height="30" alt="netlify logo"  />
-  <img width="26" />
+  <img width="18" />
   <img src="https://skillicons.dev/icons?i=notion" height="30" alt="notion logo"  />
-  <img width="26" />
+  <img width="18" />
   <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
-  <img width="26" />
+  <img width="18" />
   <img src="https://skillicons.dev/icons?i=powershell" height="30" alt="powershell logo"  />
-  <img width="26" />
+  <img width="18" />
   <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
-  <img width="26" />
+  <img width="18" />
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="26" />
+  <img width="18" />
   <img src="https://skillicons.dev/icons?i=pytorch" height="30" alt="pytorch logo"  />
-  <img width="26" />
+  <img width="18" />
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
 </div>
 
