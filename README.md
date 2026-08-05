@@ -1,96 +1,125 @@
-<h2 align="center">👋 Welcome!<br><br>Hi, I'm Tegar aka ryzen, a Computer Science student at Bina Sarana Informatika. I love coding, 3D modeling, and selling NFTs on the Solana blockchain.<br><br><br>Check out my repositories for exciting projects.</h2>
+<h2 data-importer="text" align="center">Hey👋, I'm RYZEN<br><br>Computer Science student and 3D Artist from Indonesia.<br><br>I build software, create digital experiences, and explore the intersection of technology and creativity. My interests include software engineering, AI, computer graphics, open source, and Linux.<br><br>I believe progress comes from building, experimenting, and staying curious not waiting for perfection.<br><br>Less perfection. More authenticity.<br>Less excuses. More execution.</h2>
 
 ###
 
-<div align="center">
-  <img height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWhrYXY4M3RxZmFuamh2bW9ibTFnNGZjNW1tOHQ4bHQ2bmNhNTdsaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ObhL6wFL9rh6BUNkx3/giphy.gif"  />
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/meryzennn/meryzennn/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false" height="100" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=meryzennn&locale=en&mode=daily&theme=aura&hide_border=false&border_radius=5" height="200" alt="streak graph"  />
 </div>
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=meryzennn&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=meryzennn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=meryzennn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
+<img data-importer="image" align="left" height="168" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFvdWJ3aHZiZjk0NmpoaWpyemtnbGZ2N2l3dXlxb3lwdHRvejc3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uZVCv8HVKg4n83Xsb7/giphy.gif"  />
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="30" alt="codeigniter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="30" alt="solidity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" height="30" alt="hugo logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aarch64/aarch64-original.svg" height="30" alt="aarch64 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" alt="godot logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="30" alt="unrealengine logo"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.youtube.com/@zenzxty" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+<div data-importer="socials" align="left">
+  <a href="https://youtube.com/@zenzxty" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="69" height="35" alt="youtube logo"  />
   </a>
-  <a href="https://www.instagram.com/me.ryzen" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="https://instagram.com/me.ryzen" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="69" height="35" alt="instagram logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
-  <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  <a href="https://discord.gg/XV9bjGxwD5" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="69" height="35" alt="discord logo"  />
+  </a>
+  <a href="mailto:me.ryzennn@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="69" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/tegarhardiansyah/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="69" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://dev.to/0x5zen" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="69" height="35" alt="devto logo"  />
+  </a>
+  <a href="https://bsky.app/profile/0x5zen.bsky.social" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/bluesky/default.svg" width="69" height="35" alt="bluesky logo"  />
+  </a>
+  <a href="https://www.0x5zen.dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="69" height="35" alt="linktree logo"  />
+  </a>
+  <a href="https://behance.net/0x5zen" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="69" height="35" alt="behance logo"  />
+  </a>
+  <a href="https://matrix.to/#/@0x5zen:matrix.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/matrix/default.svg" width="69" height="35" alt="matrix logo"  />
+  </a>
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meryzennn/meryzennn/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/meryzennn/meryzennn/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/meryzennn/meryzennn/output/pacman-contribution-graph.svg">
+<div data-importer="techs" align="left">
+  <img src="https://skillicons.dev/icons?i=react" height="33" alt="react logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="33" alt="nodejs logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=js" height="33" alt="javascript logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="33" alt="nextjs logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="33" alt="vercel logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=bash" height="33" alt="bash logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=dart" height="33" alt="dart logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=devto" height="33" alt="devto logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=discord" height="33" alt="discord logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=docker" height="33" alt="docker logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=electron" height="33" alt="electron logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=figma" height="33" alt="figma logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="33" alt="flutter logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=git" height="33" alt="git logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="33" alt="googlecloud logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=gradle" height="33" alt="gradle logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="33" alt="graphql logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=html" height="33" alt="html5 logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=jquery" height="33" alt="jquery logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="33" alt="kotlin logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="33" alt="kubernetes logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=linkedin" height="33" alt="linkedin logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=linux" height="33" alt="linux logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=md" height="33" alt="markdown logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="33" alt="netlify logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=notion" height="33" alt="notion logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="33" alt="postgresql logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="33" alt="powershell logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=postman" height="33" alt="postman logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=py" height="33" alt="python logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="33" alt="pytorch logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="33" alt="vscode logo"  />
+</div>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meryzennn/meryzennn/pacman-output/puzzle-bobble-contribution-graph-dark.svg?game=puzzle-bobble">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/meryzennn/meryzennn/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/meryzennn/meryzennn/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
 </picture>
 
 ###
