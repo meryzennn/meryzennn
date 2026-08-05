@@ -15,103 +15,103 @@
 
 <div data-importer="socials" align="left">
   <a href="https://youtube.com/@zenzxty" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="68" height="53" alt="youtube logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="45" height="30" alt="youtube logo"  />
   </a>
   <a href="https://instagram.com/me.ryzen" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="68" height="53" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="30" alt="instagram logo"  />
   </a>
   <a href="https://discord.gg/XV9bjGxwD5" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="68" height="53" alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="45" height="30" alt="discord logo"  />
   </a>
   <a href="mailto:me.ryzennn@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="68" height="53" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="30" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/tegarhardiansyah/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="68" height="53" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="30" alt="linkedin logo"  />
   </a>
   <a href="https://dev.to/0x5zen" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="68" height="53" alt="devto logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="45" height="30" alt="devto logo"  />
   </a>
   <a href="https://bsky.app/profile/0x5zen.bsky.social" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/bluesky/default.svg" width="68" height="53" alt="bluesky logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/bluesky/default.svg" width="45" height="30" alt="bluesky logo"  />
   </a>
   <a href="https://www.0x5zen.dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="68" height="53" alt="linktree logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="45" height="30" alt="linktree logo"  />
   </a>
   <a href="https://behance.net/0x5zen" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="68" height="53" alt="behance logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="45" height="30" alt="behance logo"  />
   </a>
   <a href="https://matrix.to/#/@0x5zen:matrix.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/matrix/default.svg" width="68" height="53" alt="matrix logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/matrix/default.svg" width="45" height="30" alt="matrix logo"  />
   </a>
 </div>
 
 ###
 
 <div data-importer="techs" align="left">
-  <img src="https://skillicons.dev/icons?i=react" height="31" alt="react logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="31" alt="nodejs logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=js" height="31" alt="javascript logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="31" alt="nextjs logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="31" alt="vercel logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=bash" height="31" alt="bash logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=dart" height="31" alt="dart logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=devto" height="31" alt="devto logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=discord" height="31" alt="discord logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=docker" height="31" alt="docker logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=electron" height="31" alt="electron logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=figma" height="31" alt="figma logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="31" alt="flutter logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=git" height="31" alt="git logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="31" alt="googlecloud logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=gradle" height="31" alt="gradle logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="31" alt="graphql logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=html" height="31" alt="html5 logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=jquery" height="31" alt="jquery logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="31" alt="kotlin logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="31" alt="kubernetes logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=linkedin" height="31" alt="linkedin logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=linux" height="31" alt="linux logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=md" height="31" alt="markdown logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="31" alt="netlify logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=notion" height="31" alt="notion logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="31" alt="postgresql logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="31" alt="powershell logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=postman" height="31" alt="postman logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=py" height="31" alt="python logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="31" alt="pytorch logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="31" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="vercel logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=dart" height="30" alt="dart logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=devto" height="30" alt="devto logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=discord" height="30" alt="discord logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=electron" height="30" alt="electron logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="flutter logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="googlecloud logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=gradle" height="30" alt="gradle logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="30" alt="graphql logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=jquery" height="30" alt="jquery logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="30" alt="kotlin logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="kubernetes logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="linkedin logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=md" height="30" alt="markdown logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="30" alt="netlify logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=notion" height="30" alt="notion logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="30" alt="powershell logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="30" alt="pytorch logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
 </div>
 
 ###
