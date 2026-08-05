@@ -9,7 +9,7 @@
 
 ###
 
-<div data-importer="socials" align="left">
+<div data-importer="socials" align="center">
   <a href="https://youtube.com/@zenzxty" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="youtube logo"  />
   </a>
@@ -48,7 +48,7 @@
 
 ###
 
-<div data-importer="techs" align="left">
+<div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
