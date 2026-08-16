@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="center">Hey👋, I'm RYZEN<br><br>Computer Science student and 3D Artist from Indonesia.<br><br>I build software, create digital experiences, and explore the intersection of technology and creativity. My interests include software engineering, AI, computer graphics, open source, and Linux.<br><br>I believe progress comes from building, experimenting, and staying curious not waiting for perfection.<br><br>Less perfection. More authenticity.<br>Less excuses. More execution.</h2>
+<h2 data-importer="text" align="center">Hey👋, I'm RYZEN<br><br>Computer Science student and 3D Artist from Indonesia.<br><br>I build software, create digital experiences, and explore the intersection of technology and creativity. My interests include software engineering, AI, computer graphics, open source, and Linux.<br><br>I believe progress comes from building, experimenting, and staying curious not waiting for perfection.<br>
 
 ###
 
