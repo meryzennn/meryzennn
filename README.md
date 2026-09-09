@@ -1,8 +1,7 @@
-![0x5zen](https://www.gitskins.com/api/section/wordmark?username=meryzennn&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F85497760%3Fu%3D48b94f96e884a299c933bbb4baee99522b2cc8e5%26v%3D4&label=0x5zen)
 <h2 data-importer="text" align="center">Hey👋, I'm RYZEN<br><br>Computer Science student and 3D Artist from Indonesia.<br><br>I build software, create digital experiences, and explore the intersection of technology and creativity. My interests include software engineering, AI, computer graphics, open source, and Linux.<br><br>I believe progress comes from building, experimenting, and staying curious not waiting for perfection.<br>
 
 ###
-
+![0x5zen](https://www.gitskins.com/api/section/wordmark?username=meryzennn&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F85497760%3Fu%3D48b94f96e884a299c933bbb4baee99522b2cc8e5%26v%3D4&label=0x5zen)
 <div data-importer="stats" align="center">
   <a href="https://github.com/stats-organization/github-stats-extended" target="_blank">
     <img src="https://github-stats-extended.vercel.app/api?username=meryzennn&include_all_commits=true&theme=aura" height="150" alt="stats graph"  />
