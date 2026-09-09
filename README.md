@@ -5,7 +5,7 @@
 
 <div data-importer="stats" align="center">
   <a href="https://github.com/stats-organization/github-stats-extended" target="_blank">
-    <img src="https://github-stats-extended.vercel.app/api?username=meryzennn&include_all_commits=true&theme=nightowl" height="150" alt="stats graph"  />
+    <img src="https://github-stats-extended.vercel.app/api?username=meryzennn&include_all_commits=true&theme=aura" height="150" alt="stats graph"  />
   </a>
   <img src="https://streak-stats.demolab.com?user=meryzennn&locale=en&mode=daily&theme=aura&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
