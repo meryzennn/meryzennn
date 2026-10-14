@@ -58,15 +58,9 @@
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
   <img width="18" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="vercel logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
-  <img width="18" />
   <img src="https://skillicons.dev/icons?i=dart" height="30" alt="dart logo"  />
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=devto" height="30" alt="devto logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=discord" height="30" alt="discord logo"  />
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
   <img width="18" />
@@ -96,15 +90,7 @@
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
   <img width="18" />
-  <img src="https://skillicons.dev/icons?i=md" height="30" alt="markdown logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="30" alt="netlify logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=notion" height="30" alt="notion logo"  />
-  <img width="18" />
   <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="30" alt="powershell logo"  />
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
   <img width="18" />
