@@ -101,4 +101,9 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
 </div>
 
+## 📬 Get In Touch
+
+📧 **Email:** [vickyrazzz81@gmail.com](mailto:vickyrazzz81@gmail.com)
+🌐 **Portfolio:** [https://vicky-tec.github.io/PortFoilo/](https://vicky-tec.github.io/PortFoilo/)
+
 ###
