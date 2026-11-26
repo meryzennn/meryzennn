@@ -45,10 +45,6 @@
 
 ###
 
-<img data-importer="image" align="left" height="170" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjhueG5mdmp3YXk2amRhcHh5bjFhaXoxeGs0cWt4eTRkbnhkemoxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VLzbEtlbwJUFljcRbf/giphy.gif"  />
-
-###
-
 <div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
   <img width="18" />
@@ -100,6 +96,5 @@
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
 </div>
-
 
 ###
